@@ -1,6 +1,6 @@
 # MondayNightGrinder
 
-Requirements:
+Requirements
 *Python 3
 *PyAutoGui
 
